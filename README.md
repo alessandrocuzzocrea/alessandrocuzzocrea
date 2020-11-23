@@ -1,4 +1,8 @@
-### Hi there 👋
+### Recent Posts
+
+#### [How I Made A Ray Tracer](https://alessandrocuzzocrea.com/how-i-made-a-ray-tracer/)
+#### [BitSummit 2019: My Experience Participating in Japan's Largest Indie Game Show as a Volunteer](https://alessandrocuzzocrea.com/bitsummit-2019/)
+#### [“The Science Behind Pixar” Exhibition in Roppongi Hills](https://alessandrocuzzocrea.com/pixar-exhibition/)
 
 <!--
 **alessandrocuzzocrea/alessandrocuzzocrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
