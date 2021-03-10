@@ -1,5 +1,6 @@
 ### Recent Posts
 
+- #### [I Participated In Ludum Dare 47 and Made A New Game In a Weekend](https://alessandrocuzzocrea.com/ludum-dare-47/)
 - #### [How I Made A Ray Tracer](https://alessandrocuzzocrea.com/how-i-made-a-ray-tracer/)
 - #### [BitSummit 2019: My Experience Participating in Japan's Largest Indie Game Show as a Volunteer](https://alessandrocuzzocrea.com/bitsummit-2019/)
 - #### [“The Science Behind Pixar” Exhibition in Roppongi Hills](https://alessandrocuzzocrea.com/pixar-exhibition/)
