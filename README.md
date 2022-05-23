@@ -1,7 +1,8 @@
 ### Recent Posts
 
+- #### [Ludum Dare 50: Delay the Inevitable](https://alessandrocuzzocrea.com/ludum-dare-50/)
 - #### [Symbols iOS: A Retrospective](https://alessandrocuzzocrea.com/symbols-retrospective/)
-- #### [I Participated In Ludum Dare 47 and Made A New Game In a Weekend](https://alessandrocuzzocrea.com/ludum-dare-47/)
+- #### [I Participated in Ludum Dare 47 and Made a New Game in a Weekend](https://alessandrocuzzocrea.com/ludum-dare-47/)
 - #### [How I Made A Ray Tracer](https://alessandrocuzzocrea.com/how-i-made-a-ray-tracer/)
 - #### [BitSummit 2019: My Experience Participating in Japan's Largest Indie Game Show as a Volunteer](https://alessandrocuzzocrea.com/bitsummit-2019/)
 
