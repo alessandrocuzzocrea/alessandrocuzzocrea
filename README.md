@@ -1,4 +1,4 @@
-### Recent Posts
+### Latest articles
 
 - #### [Ludum Dare 50: Delay the Inevitable](https://alessandrocuzzocrea.com/ludum-dare-50/)
 - #### [Symbols iOS: A Retrospective](https://alessandrocuzzocrea.com/symbols-retrospective/)
