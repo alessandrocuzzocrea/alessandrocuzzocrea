@@ -1,22 +1,7 @@
 ### Latest articles
 
-- #### [Ludum Dare 50: Delay the Inevitable](https://alessandrocuzzocrea.com/ludum-dare-50/)
-- #### [Symbols iOS: A Retrospective](https://alessandrocuzzocrea.com/symbols-retrospective/)
-- #### [I Participated in Ludum Dare 47 and Made a New Game in a Weekend](https://alessandrocuzzocrea.com/ludum-dare-47/)
-- #### [How I Made A Ray Tracer](https://alessandrocuzzocrea.com/how-i-made-a-ray-tracer/)
-- #### [BitSummit 2019: My Experience Participating in Japan's Largest Indie Game Show as a Volunteer](https://alessandrocuzzocrea.com/bitsummit-2019/)
-
-<!--
-**alessandrocuzzocrea/alessandrocuzzocrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- #### [Mother 2 - 30th Anniversary](https://alessandrocuzzocrea.com/mother2-30th-anniversary/)
+- #### [Hikaru Utada’s HIKARU UTADA SCIENCE FICTION TOUR 2024 at Saitama Super Arena](https://alessandrocuzzocrea.com/hikaru-utada-science-fiction-tour-2024/)
+- #### [2023: Year in Review](https://alessandrocuzzocrea.com/2023-year-in-review/)
+- #### [“Anything’s possible, Mario. You just gotta believe” – Revisiting the 1993 'Super Mario Bros.' Movie](https://alessandrocuzzocrea.com/super-mario-bros-1993-movie-review/)
+- #### [2022: Year in Review](https://alessandrocuzzocrea.com/2022-year-in-review/)
