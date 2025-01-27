@@ -31,12 +31,16 @@ jobs:
     - name: Run update.py script
       run: |
         python update.py
-    - name: Commit and push updated README.md
-      run: |
-        git config --local user.name "github-actions[bot]"
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git add README.md
-        git commit -m "Update README.md with latest articles"
-        git push
+        - name: Commit and push updated README.md
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update README.md with latest articles"
+            git push
+          else
+            echo "No changes to commit"
+          fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
