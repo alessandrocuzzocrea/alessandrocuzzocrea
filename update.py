@@ -6,17 +6,19 @@ rss_url = "https://alessandrocuzzocrea.com/feed.xml"
 # Parse the RSS feed
 feed = feedparser.parse(rss_url)
 
-# print(feed)
+# Prepare the file content
+file_content = "### Latest articles\n\n"
 
-# Print basic feed information
-# print(f"Feed Title: {feed.feed.title}")
-# print(f"Feed Link: {feed.feed.link}")
-# print(f"Feed Description: {feed.feed.description}")
+# Get the latest 5 articles
+latest_articles = feed.entries[:5]
 
-# Loop through and print each entry in the feed
-for entry in feed.entries:
-    print("\n---")
-    print(f"Title: {entry.title}")
-    print(f"Link: {entry.link}")
-    # print(f"Published: {entry.published}")
-    # print(f"Summary: {entry.summary}")
+for entry in latest_articles:
+    title = entry.title
+    link = entry.link
+    file_content += f"- #### [{title}]({link})\n"
+
+# Write the content to a file
+with open("README.md", "w", encoding="utf-8") as file:
+    file.write(file_content)
+
+print("Latest articles have been saved to 'README.md'")
