@@ -16,4 +16,4 @@ for entry in latest_articles:
 with open("README.md", "w", encoding="utf-8") as file:
     file.write(file_content)
 
-print("Latest articles have been saved to 'README.md'")
+print("Latest articles have been saved to 'README.md!'")
